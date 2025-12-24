@@ -74,7 +74,7 @@ Core contributor to foundational AI infrastructure:
 | [vkteams-bot-clj](https://github.com/bug-ops/vkteams-bot-clj) | VK Teams Bot implementation | ![Clojure](https://img.shields.io/badge/-Clojure-5881D8?logo=clojure&logoColor=white&style=flat-square) |
 
 <p align="center">
-<img src="https://metrics.lecoq.io/bug-ops?template=classic&config.display=large&base=activity%2Ccommunity&base.indepth=false&languages=1&languages.limit=6&languages.threshold=0%25&languages.other=false&languages.sections=most-used&languages.indepth=false&config.timezone=Europe%2FMoscow" alt="Metrics" height="165" />
+<img src="https://metrics.lecoq.io/bug-ops?template=classic&config.display=large&base=activity%2Ccommunity&base.indepth=false&languages=1&languages.limit=6&languages.threshold=0%25&languages.other=false&languages.sections=most-used&languages.indepth=false&config.timezone=Europe%2FMoscow" alt="Metrics" />
 </p>
 
 ---
