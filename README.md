@@ -44,11 +44,12 @@ Core contributor to foundational AI infrastructure:
 
 | Project | What it does | Impact | |
 | --------- | -------------- | -------- | :-: |
+| [exarch](https://github.com/bug-ops/exarch) | Memory-safe archive extraction, TAR/ZIP | **Zero CVEs** · replaces vulnerable libs | ![Rust](https://img.shields.io/badge/-Rust-CE422B?logo=rust&logoColor=white&style=flat-square)![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square) |
 | [fast-yaml](https://github.com/bug-ops/fast-yaml) | YAML 1.2.2, zero unsafe, built-in linter | **14x faster** than PyYAML | ![Rust](https://img.shields.io/badge/-Rust-CE422B?logo=rust&logoColor=white&style=flat-square)![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square) |
 | [feedparser-rs](https://github.com/bug-ops/feedparser-rs) | RSS/Atom/JSON Feed + all extensions | **213 MB/s** · 94x faster | ![Rust](https://img.shields.io/badge/-Rust-CE422B?logo=rust&logoColor=white&style=flat-square)![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square) |
 
 > [!IMPORTANT]
-> Both parsers have Python and Node.js bindings
+> All three have Python and Node.js bindings —
 > drop-in replacements for existing code.
 
 ## Developer Tools
