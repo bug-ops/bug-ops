@@ -16,7 +16,7 @@ Core contributor to foundational AI infrastructure:
 | --------- | --------------- | :-: |
 | [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) | Elicitation support, context-aware completion | ![Rust](https://img.shields.io/badge/-Rust-CE422B?logo=rust&logoColor=white&style=flat-square) |
 | [restatedev/restate](https://github.com/restatedev/restate) | Shell completion for restatectl | ![Rust](https://img.shields.io/badge/-Rust-CE422B?logo=rust&logoColor=white&style=flat-square) |
-| [zed-industries/extensions](https://github.com/zed-industries/extensions) | Deps extension *(in review)* | ![Rust](https://img.shields.io/badge/-Rust-CE422B?logo=rust&logoColor=white&style=flat-square) |
+| [zed-industries/extensions](https://github.com/zed-industries/extensions) | Deps extension | ![Rust](https://img.shields.io/badge/-Rust-CE422B?logo=rust&logoColor=white&style=flat-square) |
 
 ---
 
@@ -61,6 +61,7 @@ Core contributor to foundational AI infrastructure:
 | Project | What it does | Impact | |
 | --------- | -------------- | -------- | :-: |
 | [deps-lsp](https://github.com/bug-ops/deps-lsp) | Universal dependency management LSP | Cargo + npm + PyPI | ![Rust](https://img.shields.io/badge/-Rust-CE422B?logo=rust&logoColor=white&style=flat-square) |
+| [deps-zed](https://github.com/bug-ops/deps-zed) | Zed extension for deps-lsp | Version hints + diagnostics | ![Rust](https://img.shields.io/badge/-Rust-CE422B?logo=rust&logoColor=white&style=flat-square) |
 | [helix-trainer](https://github.com/bug-ops/helix-trainer) | FSRS spaced repetition for Helix | **30% fewer** reviews than Anki | ![Rust](https://img.shields.io/badge/-Rust-CE422B?logo=rust&logoColor=white&style=flat-square) |
 
 ---
