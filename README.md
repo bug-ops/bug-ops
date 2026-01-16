@@ -48,10 +48,11 @@ Core contributor to foundational AI infrastructure:
 | [fast-yaml](https://github.com/bug-ops/fast-yaml) | YAML 1.2.2, zero unsafe, built-in linter | **14x faster** than PyYAML | ![Rust](https://img.shields.io/badge/-Rust-CE422B?logo=rust&logoColor=white&style=flat-square)![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square) |
 | [feedparser-rs](https://github.com/bug-ops/feedparser-rs) | RSS/Atom/JSON Feed + all extensions | **213 MB/s** · 94x faster | ![Rust](https://img.shields.io/badge/-Rust-CE422B?logo=rust&logoColor=white&style=flat-square)![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square) |
 | [pyhdb-rs](https://github.com/bug-ops/pyhdb-rs) | SAP HANA driver with Arrow + async | Polars/pandas integration | ![Rust](https://img.shields.io/badge/-Rust-CE422B?logo=rust&logoColor=white&style=flat-square)![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
+| [scrape-rs](https://github.com/bug-ops/scrape-rs) | HTML parsing + CSS selectors, SIMD | **50x faster** than BeautifulSoup | ![Rust](https://img.shields.io/badge/-Rust-CE422B?logo=rust&logoColor=white&style=flat-square)![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square) |
 
 > [!IMPORTANT]
 > All have Python bindings — drop-in replacements for existing code.
-> exarch, fast-yaml, and feedparser-rs also have Node.js bindings.
+> exarch, fast-yaml, feedparser-rs, and scrape-rs also have Node.js bindings.
 
 ## Developer Tools
 
