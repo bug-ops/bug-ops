@@ -32,6 +32,7 @@ Core contributor to foundational AI infrastructure:
 | [mcpls](https://github.com/bug-ops/mcpls) | MCP ↔ LSP bridge | Semantic code intelligence for AI | ![Rust](https://img.shields.io/badge/-Rust-CE422B?logo=rust&logoColor=white&style=flat-square) |
 | [pjs](https://github.com/bug-ops/pjs) | Priority JSON Streaming + SIMD | **6x faster** than standard parsers | ![Rust](https://img.shields.io/badge/-Rust-CE422B?logo=rust&logoColor=white&style=flat-square) |
 | [tap-mcp-bridge](https://github.com/bug-ops/tap-mcp-bridge) | Visa TAP + MCP integration | Secure payment auth for AI agents | ![Rust](https://img.shields.io/badge/-Rust-CE422B?logo=rust&logoColor=white&style=flat-square) |
+| [zeph](https://github.com/bug-ops/zeph) | Extensible AI agent runtime with local LLM | Pluggable skills + multi-channel | ![Rust](https://img.shields.io/badge/-Rust-CE422B?logo=rust&logoColor=white&style=flat-square) |
 
 > [!TIP]
 > Start with [mcp-execution](https://github.com/bug-ops/mcp-execution)
@@ -77,9 +78,7 @@ Core contributor to foundational AI infrastructure:
 | [vkteams-bot](https://github.com/bug-ops/vkteams-bot) | VK Teams Bot ecosystem: CLI + MCP + vector storage | ![Rust](https://img.shields.io/badge/-Rust-CE422B?logo=rust&logoColor=white&style=flat-square) |
 | [vkteams-bot-clj](https://github.com/bug-ops/vkteams-bot-clj) | VK Teams Bot implementation | ![Clojure](https://img.shields.io/badge/-Clojure-5881D8?logo=clojure&logoColor=white&style=flat-square) |
 
-<p align="center">
-<img src="https://metrics.lecoq.io/bug-ops?template=classic&config.display=large&base=activity%2Ccommunity&base.indepth=false&languages=1&languages.limit=6&languages.threshold=0%25&languages.other=false&languages.sections=most-used&languages.indepth=false&config.timezone=Europe%2FMoscow" alt="Metrics" />
-</p>
+![Metrics](https://metrics.lecoq.io/?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FBelgrade)
 
 ---
 
