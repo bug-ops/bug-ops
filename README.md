@@ -29,6 +29,7 @@ Core contributor to foundational AI infrastructure:
 | --------- | -------------- | -------- | :-: |
 | [mcp-execution](https://github.com/bug-ops/mcp-execution) | MCP servers → standalone TypeScript tools | **98% token savings** | ![Rust](https://img.shields.io/badge/-Rust-CE422B?logo=rust&logoColor=white&style=flat-square) |
 | [claude-plugins](https://github.com/bug-ops/claude-plugins) | 8 specialized Rust agents for Claude Code | Full dev lifecycle coverage | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnubash&logoColor=white&style=flat-square) |
+| [codex-plugins](https://github.com/bug-ops/codex-plugins) | Portable Codex plugin monorepo | Reusable developer workflows | ![Codex](https://img.shields.io/badge/-Codex-111111?style=flat-square) |
 | [mcpls](https://github.com/bug-ops/mcpls) | MCP ↔ LSP bridge | Semantic code intelligence for AI | ![Rust](https://img.shields.io/badge/-Rust-CE422B?logo=rust&logoColor=white&style=flat-square) |
 | [pjs](https://github.com/bug-ops/pjs) | Priority JSON Streaming + SIMD | **6x faster** than standard parsers | ![Rust](https://img.shields.io/badge/-Rust-CE422B?logo=rust&logoColor=white&style=flat-square) |
 | [tap-mcp-bridge](https://github.com/bug-ops/tap-mcp-bridge) | Visa TAP + MCP integration | Secure payment auth for AI agents | ![Rust](https://img.shields.io/badge/-Rust-CE422B?logo=rust&logoColor=white&style=flat-square) |
